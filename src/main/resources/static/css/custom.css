@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body{
+	background-image:url("/images/gensis.png");
+	background-size:coverl;
+	margin:10px;
+	padding:10px;
+}
+.form-box{
+	  top: 50%;
+            left: 50%;
+            position: absolute;
+            width: 375px;
+            height: 261px;
+            margin-top: -200px;
+            background: rgba(231, 225,239, 0.63);
+            margin-left: -250px;
+            padding: 20px 30px;
+            line-height: 50px;
+}
+
+
+.customInput{
+	margin:2px;
+}
+.loginDiv{
+	    margin-left: 400px;
+    margin-top: 213px;
+	
+}
+.btn{
+	    margin-left: 107px;
+}
+
+.label{
+		font-family: fantasy;
+	color:#0c0c0c;
+	
+}
+input{
+	width:160px;
+	height:35px;
+}
